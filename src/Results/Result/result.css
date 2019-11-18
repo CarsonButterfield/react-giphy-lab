@@ -1,0 +1,13 @@
+.gif{
+    width: 28vw;
+    height:15vw;
+}
+
+.gif-container{
+  
+   width:30vw
+}
+.gif-list{
+    display: flex;
+    flex-wrap: wrap;
+}

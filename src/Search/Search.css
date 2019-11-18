@@ -1,0 +1,14 @@
+#search{
+    width: 100vw;
+    text-align: center;
+}
+#submit{
+    width:40px;
+    height:40px;
+    color:royalblue;
+    cursor: pointer;
+}
+
+#gif-list{
+    display: flex;
+}
